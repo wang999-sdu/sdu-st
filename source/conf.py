@@ -87,7 +87,7 @@ html_theme_options = {
     'titles_only': False,
 }
 
-html_logo = "./_static/logo.png"
+html_logo = "./_static/logo.jpg"
 html_static_path = ['_static']
 html_js_files = [
     'my_custom.js',
